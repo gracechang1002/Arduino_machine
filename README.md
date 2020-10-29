@@ -15,7 +15,7 @@
 
 ![image](https://github.com/gracechang1002/Arduino_machine/blob/master/arduino.png)
 
-#裝置流程
+# 裝置流程
 **a.綠色按鈕**<br>
 完整紅綠燈狀態，綠燈7秒，黃燈2.5秒，紅燈9秒，當為綠燈或紅燈亮時，七<br>
 段顯示器皆會顯示時間的倒數，當紅燈亮時，透過鋁線的敲擊，於LCD顯示板<br>
