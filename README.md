@@ -13,7 +13,7 @@
 時間的顯示，1 IC晶片為控制七段顯示器使用，2條鋁線作為在紅燈時的測試，<br>
 1LCD面板作為顯示紅線時壓線的次數，12顆燈泡為表示紅綠燈三種燈號。<br>
 
-![image} (https://github.com/gracechang1002/Arduino_machine/blob/master/arduino.png)
+![image](https://github.com/gracechang1002/Arduino_machine/blob/master/arduino.png)
 
 #裝置流程
 **a.綠色按鈕**<br>
